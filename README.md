@@ -20,9 +20,7 @@ Devolver Livro
 
 Sair
 
-yaml
-Copiar
-Editar
+
 
 ---
 
@@ -47,11 +45,7 @@ Biblioteca/
 │ └── Main.java
 └── README.md
 
-yaml
-Copiar
-Editar
 
----
 
 ## ▶️ Como Executar
 
@@ -59,11 +53,8 @@ Editar
    ```bash
    javac src/*.java
 Execute o programa:
-
-bash
-Copiar
-Editar
 java src/Main
+
 🧑‍💻 Autor
 Desenvolvido por Lucas (LK) 👨‍💻
 Siga-me para mais projetos!
